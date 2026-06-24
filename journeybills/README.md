@@ -87,18 +87,16 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## 📸 Screenshots
 
-*(Replace these placeholders with actual screenshots of your app!)*
-
 <p align="center">
-  <img src="https://drive.google.com/file/d/12vdVWwCwBrLYm_FuxOtcx-J9Pofxn9_X/view?usp=sharing" width="19%"/>
+   <img width="19%"src="https://github.com/user-attachments/assets/c08b8fff-b72d-4a8e-99e9-62f868a43d32" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://drive.google.com/file/d/1UydaKarnY8o4ken1fa6C7a2gMTkDAGW-/view?usp=sharing" width="19%"/>
+   <img width="19%" src="https://github.com/user-attachments/assets/618838f2-a6a3-43d5-8987-1d387f329823" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://drive.google.com/file/d/1OX-rcoJPFCWv_rZsO0ZuQxAtQBjozM0T/view?usp=sharing" width="19%"/>
-     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://drive.google.com/file/d/1BWhG5FWVczLf-RknIB4HLuPYUZqDzkK0/view?usp=sharing" width="19%"/>
-     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://drive.google.com/file/d/1-gX5GIqKn_cPrsM1LW-2C0BFEaYCzmU-/view?usp=sharing" width="19%"/>
+   <img width="19%"src="https://github.com/user-attachments/assets/bc8a917f-8384-437d-b813-9ff2073643df" />
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width="19%" src="https://github.com/user-attachments/assets/82d3650f-a470-4a89-8f19-e6a37a092ae9" />
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width="19%" src="https://github.com/user-attachments/assets/8e91edc6-7070-44a8-9160-fa79833934a0" />
 </p>
 
 ---

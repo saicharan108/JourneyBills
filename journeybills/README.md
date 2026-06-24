@@ -36,18 +36,18 @@
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features:
 
- **1.**⁠ ⁠Completely offline no data is shared across the internet 
- **2.⁠** ⁠No login or personal details required (Except if you want to use cloud backup)
- **3.⁠** ⁠Add free
- **4.**⁠ ⁠No limitation on number of trips or transactions.
- **5.**⁠ ⁠Ability to backup data to personal google drive 
- **6.**⁠ ⁠Ability to import data from the backup (Restricted only to the files created by the app and will not be able to access other files from drive i.e. scope restricted)
- **7.**⁠ ⁠Debt simplification for repayment
- **8.⁠** ⁠Ability to transfer debt from one person to another
- **9.⁠** ⁠Ability track advances from friends 
-**10.⁠** ⁠Comprehensive report in form of pdf including all the expenses and related transactions.
+ 1.⁠ ⁠Completely offline no data is shared across the internet 
+ 2⁠. ⁠No login or personal details required (Except if you want to use cloud backup)
+ 3⁠. ⁠Add free
+ 4. ⁠No limitation on number of trips or transactions.
+ 5. Ability to backup data to personal google drive 
+ 6. ⁠Ability to import data from the backup (Restricted only to the files created by the app and will not be able to access other files from drive i.e. scope restricted)
+ 7. ⁠Debt simplification for repayment
+ 8. Ability to transfer debt from one person to another
+ 9⁠. Ability track advances from friends 
+10.⁠ ⁠Comprehensive report in form of pdf including all the expenses and related transactions.
 
 ---
 

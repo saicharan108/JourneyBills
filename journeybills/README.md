@@ -15,9 +15,17 @@
 
 **Journey Bills** is a beautifully crafted Android application built with modern **Jetpack Compose** that helps you track your trips, split expenses seamlessly among friends, and manage your travel finances effortlessly. Think of it as a personalized Splitwise tailored specifically for your wanderlust! 🗺️💸
 
+**How it compares to competitors:**
+
+**vs. Splitwise:** Unlike Splitwise, which restricts advanced visualizations, PDF exports, and ad-free usage behind a paywall, JourneyBills provides comprehensive category charting and rich PDF report generation without requiring a subscription.
+
+**vs. Tricount:** While Tricount is great for simple one-off trips, JourneyBills offers richer Google Drive synchronization, detailed activity logs, and more robust data persistence for tracking expenses across multiple trips or long-term shared living situations.
+
+**vs. Settle Up:** JourneyBills prioritizes a modern, clean Material 3 design system, offering a far less cluttered and more intuitive user experience while maintaining powerful features like multi-currency support and precise custom percentage splits.
+
 ---
 
-## ✨ Features
+## ✨ Highlights
 
 - 🏕️ **Trip Management:** Organize your adventures by creating and managing multiple trips.
 - 🧾 **Expense Tracking:** Effortlessly add expenses, assign who paid, and select who shares the cost.
@@ -25,6 +33,21 @@
 - ☁️ **Cloud Backup & Sync:** Secure your memories and data by exporting/importing backups via **Google Drive** integrations.
 - 🎨 **Stunning UI/UX:** Built with the latest **Material Design 3**, featuring dynamic themes, smooth transitions, edge-to-edge layouts, and intuitive controls.
 - 🌓 **Dark & Light Mode:** Fully adaptive to your system's theme for optimal viewing day or night.
+
+---
+
+## ✨ Key Features
+
+ **1.**⁠ ⁠Completely offline no data is shared across the internet 
+ **2.⁠** ⁠No login or personal details required (Except if you want to use cloud backup)
+ **3.⁠** ⁠Add free
+ **4.**⁠ ⁠No limitation on number of trips or transactions.
+ **5.**⁠ ⁠Ability to backup data to personal google drive 
+ **6.**⁠ ⁠Ability to import data from the backup (Restricted only to the files created by the app and will not be able to access other files from drive i.e. scope restricted)
+ **7.**⁠ ⁠Debt simplification for repayment
+ **8.⁠** ⁠Ability to transfer debt from one person to another
+ **9.⁠** ⁠Ability track advances from friends 
+**10.⁠** ⁠Comprehensive report in form of pdf including all the expenses and related transactions.
 
 ---
 
@@ -67,11 +90,15 @@ Follow these instructions to get a copy of the project up and running on your lo
 *(Replace these placeholders with actual screenshots of your app!)*
 
 <p align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=Home+Screen" width="200" alt="Home Screen"/>
+  <img src="https://drive.google.com/file/d/12vdVWwCwBrLYm_FuxOtcx-J9Pofxn9_X/view?usp=sharing" width="19%"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/250x500.png?text=Trip+Details" width="200" alt="Trip Details"/>
+  <img src="https://drive.google.com/file/d/1UydaKarnY8o4ken1fa6C7a2gMTkDAGW-/view?usp=sharing" width="19%"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/250x500.png?text=Add+Expense" width="200" alt="Add Expense"/>
+  <img src="https://drive.google.com/file/d/1OX-rcoJPFCWv_rZsO0ZuQxAtQBjozM0T/view?usp=sharing" width="19%"/>
+     &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://drive.google.com/file/d/1BWhG5FWVczLf-RknIB4HLuPYUZqDzkK0/view?usp=sharing" width="19%"/>
+     &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://drive.google.com/file/d/1-gX5GIqKn_cPrsM1LW-2C0BFEaYCzmU-/view?usp=sharing" width="19%"/>
 </p>
 
 ---
@@ -90,7 +117,7 @@ We welcome contributions to make **Journey Bills** even better!
 
 ## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Free to download. Keeping friendships intact since 2026.
 
 <div align="center">
   <p>Made with ❤️ for travelers everywhere.</p>
